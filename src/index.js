@@ -12,7 +12,7 @@ import {
   ViewPagerAndroid,
   Platform,
   ActivityIndicator
-} from '@zz-app/react-native'
+} from 'react-native'
 
 const { width, height } = Dimensions.get('window')
 
